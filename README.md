@@ -2,7 +2,7 @@
 DeepL Free API
 
 ## Notice
-Since I don't want to make my AuthKey public, if you want to run the python file successfully, you need to change line 6 `YOUR_AUTH_KEY`.
+Since I don't want to make my AuthKey public, if you want to run the python file successfully, you need to change `LINE 6` `YOUR_AUTH_KEY`. You can also choose to run my compiled binaries.
 
 ## Fetures
 - Free, no account registration required
