@@ -15,8 +15,8 @@ Since I don't want to make my AuthKey public, if you want to run the python file
   --help, -h show this help message and exit
   --text -t text to translate, required
   --auth_key -a authKey, optional
-  --source_lang -s source language, default: Auto, optional
-  --target_lang -l target language, Default: ZH, optional
+  --source_lang -s source language, default: auto, optional
+  --target_lang -l target language, default: ZH, optional
 ~~~
 
 ### Common
