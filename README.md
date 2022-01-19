@@ -64,7 +64,7 @@ DeepL Free API
 - `SV`: 瑞典语
 
 ## TO DO
- - Provide open API interface
+ - Provide open API
  - Document translation
 
 ## License 
