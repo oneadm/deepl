@@ -20,10 +20,14 @@ Since I don't want to make my AuthKey public, if you want to run the python file
 ~~~
 
 ### Common
-`python3 deepl.py -t stepwells`
+~~~shell
+python3 deepl.py -t stepwells
+~~~
 
 ### Custom
-`python3 deepl.py -t stepwells -s EN -l ZH`
+~~~shell
+python3 deepl.py -t stepwells -s EN -l ZH
+~~~
 
 ### Return
 ~~~json
