@@ -1,19 +1,18 @@
 # DeepL
 DeepL Free API
 
+## Fetures
+- Free, no account registration required
+- Custom DeepL AuthKey
+- Custom Source Language
+- Custom Target Language
+
+## Usage 
+**-t parameter is required, others optional.** 
 ~~~
-usage: deepl [-h] [--auth_key AUTH_KEY] [--source_lang SOURCE_LANG] --text
-             TEXT [--target_lang TARGET_LANG]
-
-Deepl API
-
-optional arguments:
-  -h, --help            show this help message and exit
-  --auth_key AUTH_KEY, -a AUTH_KEY
-                        authKey
-  --source_lang SOURCE_LANG, -s SOURCE_LANG
-                        source language, Default: Auto
-  --text TEXT, -t TEXT  text to translate
-  --target_lang TARGET_LANG, -l TARGET_LANG
-                        target language, Default: ZH
+  --help, -h show this help message and exit
+  --auth_key -a authKey
+  --source_lang -s source language, default: Auto
+  --text -t text to translate
+  --target_lang -l target language, Default: ZH
 ~~~
