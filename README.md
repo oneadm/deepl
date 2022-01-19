@@ -70,5 +70,8 @@ Since I don't want to make my AuthKey public, if you want to run the python file
  - Provide open API
  - Document translation
 
+## Reference
+[https://www.deepl.com/en/docs-api](https://www.deepl.com/en/docs-api)
+
 ## License 
 MIT License
