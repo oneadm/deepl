@@ -19,12 +19,10 @@ Since I don't want to make my AuthKey public, if you want to run the python file
   --target_lang -l target language, default: ZH, optional
 ~~~
 
-### Executable file (Linux/macOS)
+### Executable file (Linux/macOS/Windows)
 ~~~shell
-wget https://github.com/missuo/deepl/releases/download/0.1/deepl
-chmod +x deepl
-./deepl -t stepwells
-./deepl -t stepwells -s EN -l ZH
+./deepl -text stepwells
+./deepl -text stepwells -targetLang ZH
 ~~~
 
 ### Python
