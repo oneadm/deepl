@@ -11,7 +11,7 @@ Since I don't want to make my AuthKey public, if you want to run the python file
 - Custom Target Language
 
 ## Usage 
-### 「Recommended」 Go Executable file (Linux/macOS/Windows)
+## Recommended - Go Executable file (Linux/macOS/Windows)
 ~~~shell
 ./deepl -text stepwells
 ./deepl -text stepwells -targetLang ZH
