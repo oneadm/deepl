@@ -1,6 +1,9 @@
 # DeepL
 DeepL Free API
 
+## Notice
+Since I don't want to make my AuthKey public, if you want to run the python file successfully, you need to change line 6 `YOUR_AUTH_KEY`.
+
 ## Fetures
 - Free, no account registration required
 - Custom DeepL AuthKey
