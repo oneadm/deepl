@@ -11,6 +11,7 @@ Since I don't want to make my AuthKey public, if you want to run the python file
 - Custom Target Language
 
 ## Usage 
+### Python
 ~~~
   --help, -h show this help message and exit
   --text -t text to translate, required
@@ -18,18 +19,18 @@ Since I don't want to make my AuthKey public, if you want to run the python file
   --source_lang -s source language, default: auto, optional
   --target_lang -l target language, default: ZH, optional
 ~~~
+~~~shell
+python3 deepl.py -t stepwells
+python3 deepl.py -t stepwells -s EN -l ZH
+~~~
 
-### Executable file (Linux/macOS/Windows)
+### Go Executable file (Linux/macOS/Windows)
 ~~~shell
 ./deepl -text stepwells
 ./deepl -text stepwells -targetLang ZH
 ~~~
 
-### Python
-~~~shell
-python3 deepl.py -t stepwells
-python3 deepl.py -t stepwells -s EN -l ZH
-~~~
+
 
 ### Return
 ~~~json
