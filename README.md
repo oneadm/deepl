@@ -17,7 +17,7 @@ Since I don't want to make my AuthKey public, if you want to run the python file
 ./deepl -text stepwells -targetLang ZH
 ~~~
 
-### Python
+## Python 3 Version
 ~~~
   --help, -h show this help message and exit
   --text -t text to translate, required
