@@ -36,7 +36,7 @@ DeepL Free API
 }
 ~~~
 
-## **language supported:**
+## **Language supported**
 
 - `DE`: 德语
 - `EN`: 英语
